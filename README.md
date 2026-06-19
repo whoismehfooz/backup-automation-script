@@ -68,7 +68,7 @@ The `backups/` folder is ignored in version control to keep the repository clean
 
 ---
 
-## 🙌 Author
+## 🙌 Author😈
 
 Built with consistency and focus by **Mehfooz** 🚀
 
@@ -77,3 +77,4 @@ Built with consistency and focus by **Mehfooz** 🚀
 ## ⭐ If you like this project
 
 Give it a star and follow for more 🔥
+
